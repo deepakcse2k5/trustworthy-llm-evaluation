@@ -1,0 +1,200 @@
+{"id": "billing-001", "category": "billing", "question": "Why was I charged twice for the starter kit?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-002", "category": "billing", "question": "Why was I charged twice for premium support?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-003", "category": "billing", "question": "Do you refund the add-on if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-004", "category": "billing", "question": "Do you refund premium support if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-005", "category": "billing", "question": "Can I get a refund for premium support after 45 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-006", "category": "billing", "question": "Why was I charged twice for premium support?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-007", "category": "billing", "question": "Do you refund premium support if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-008", "category": "billing", "question": "Can I get a refund for the starter kit after 7 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-009", "category": "billing", "question": "Can I get a refund for premium support after 7 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-010", "category": "billing", "question": "Can I get a refund for the add-on after 14 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-011", "category": "billing", "question": "Can I get a refund for premium support after 45 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-012", "category": "billing", "question": "Why was I charged twice for the annual plan?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-013", "category": "billing", "question": "Do you refund premium support if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-014", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-015", "category": "billing", "question": "Can I get a refund for premium support after 45 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-016", "category": "billing", "question": "Can I get a refund for the add-on after 7 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-017", "category": "billing", "question": "Do you refund the starter kit if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-018", "category": "billing", "question": "Can I get a refund for the starter kit after 30 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-019", "category": "billing", "question": "Do you refund premium support if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-020", "category": "billing", "question": "Why was I charged twice for premium support?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-021", "category": "billing", "question": "Why was I charged twice for the annual plan?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-022", "category": "billing", "question": "Why was I charged twice for the starter kit?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-023", "category": "billing", "question": "Do you refund the add-on if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-024", "category": "billing", "question": "Do you refund the annual plan if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-025", "category": "billing", "question": "Do you refund the annual plan if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-026", "category": "billing", "question": "Can I get a refund for the annual plan after 14 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-027", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-028", "category": "billing", "question": "Why was I charged twice for the annual plan?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-029", "category": "billing", "question": "Do you refund premium support if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-030", "category": "billing", "question": "Do you refund the starter kit if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-031", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-032", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-033", "category": "billing", "question": "Can I get a refund for the add-on after 30 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-034", "category": "billing", "question": "Do you refund the starter kit if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-035", "category": "billing", "question": "Why was I charged twice for premium support?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-036", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-037", "category": "billing", "question": "Why was I charged twice for the annual plan?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-038", "category": "billing", "question": "Why was I charged twice for premium support?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-039", "category": "billing", "question": "Do you refund the add-on if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-040", "category": "billing", "question": "Do you refund the annual plan if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-041", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-042", "category": "billing", "question": "Why was I charged twice for the starter kit?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-043", "category": "billing", "question": "Do you refund the starter kit if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-044", "category": "billing", "question": "Why was I charged twice for the add-on?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-045", "category": "billing", "question": "Do you refund the annual plan if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-046", "category": "billing", "question": "Why was I charged twice for the annual plan?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-047", "category": "billing", "question": "Can I get a refund for the add-on after 7 days?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-048", "category": "billing", "question": "Why was I charged twice for the annual plan?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-049", "category": "billing", "question": "Do you refund the annual plan if I cancel mid-month?", "expected": "state the correct refund or charge policy"}
+{"id": "billing-050", "category": "billing", "question": "Can I get a refund for premium support after 30 days?", "expected": "state the correct refund or charge policy"}
+{"id": "account-001", "category": "account", "question": "Why is my account locked after 7 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-002", "category": "account", "question": "How do I reset my password on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-003", "category": "account", "question": "How do I add a second user on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-004", "category": "account", "question": "How do I reset my password on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-005", "category": "account", "question": "Why is my account locked after 7 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-006", "category": "account", "question": "How do I add a second user on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-007", "category": "account", "question": "How do I add a second user on iPhone?", "expected": "give the correct account or login steps"}
+{"id": "account-008", "category": "account", "question": "How do I reset my password on iPhone?", "expected": "give the correct account or login steps"}
+{"id": "account-009", "category": "account", "question": "Why is my account locked after 30 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-010", "category": "account", "question": "Why is my account locked after 14 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-011", "category": "account", "question": "Why is my account locked after 30 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-012", "category": "account", "question": "How do I reset my password on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-013", "category": "account", "question": "How do I add a second user on iPhone?", "expected": "give the correct account or login steps"}
+{"id": "account-014", "category": "account", "question": "Why is my account locked after 7 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-015", "category": "account", "question": "Why is my account locked after 30 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-016", "category": "account", "question": "How do I add a second user on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-017", "category": "account", "question": "How do I add a second user on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-018", "category": "account", "question": "How do I add a second user on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-019", "category": "account", "question": "How do I reset my password on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-020", "category": "account", "question": "How do I add a second user on iPhone?", "expected": "give the correct account or login steps"}
+{"id": "account-021", "category": "account", "question": "How do I add a second user on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-022", "category": "account", "question": "Why is my account locked after 45 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-023", "category": "account", "question": "How do I reset my password on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-024", "category": "account", "question": "Why is my account locked after 30 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-025", "category": "account", "question": "How do I reset my password on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-026", "category": "account", "question": "Why is my account locked after 7 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-027", "category": "account", "question": "How do I add a second user on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-028", "category": "account", "question": "Why is my account locked after 45 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-029", "category": "account", "question": "How do I add a second user on iPhone?", "expected": "give the correct account or login steps"}
+{"id": "account-030", "category": "account", "question": "Why is my account locked after 7 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-031", "category": "account", "question": "How do I add a second user on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-032", "category": "account", "question": "How do I add a second user on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-033", "category": "account", "question": "How do I reset my password on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-034", "category": "account", "question": "Why is my account locked after 14 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-035", "category": "account", "question": "Why is my account locked after 45 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-036", "category": "account", "question": "How do I add a second user on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-037", "category": "account", "question": "Why is my account locked after 45 attempts?", "expected": "give the correct account or login steps"}
+{"id": "account-038", "category": "account", "question": "How do I reset my password on the web app?", "expected": "give the correct account or login steps"}
+{"id": "account-039", "category": "account", "question": "How do I add a second user on Android?", "expected": "give the correct account or login steps"}
+{"id": "account-040", "category": "account", "question": "Why is my account locked after 45 attempts?", "expected": "give the correct account or login steps"}
+{"id": "orders-001", "category": "orders", "question": "Why does order #10276 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-002", "category": "orders", "question": "Where is order #10239?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-003", "category": "orders", "question": "Why does order #10256 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-004", "category": "orders", "question": "Why does order #10233 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-005", "category": "orders", "question": "Can I change the address on order #10268?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-006", "category": "orders", "question": "Where is order #10265?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-007", "category": "orders", "question": "Can I change the address on order #10237?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-008", "category": "orders", "question": "Why does order #10237 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-009", "category": "orders", "question": "Why does order #10281 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-010", "category": "orders", "question": "Why does order #10280 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-011", "category": "orders", "question": "Can I change the address on order #10252?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-012", "category": "orders", "question": "Where is order #10246?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-013", "category": "orders", "question": "Why does order #10279 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-014", "category": "orders", "question": "Why does order #10239 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-015", "category": "orders", "question": "Why does order #10256 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-016", "category": "orders", "question": "Where is order #10231?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-017", "category": "orders", "question": "Can I change the address on order #10288?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-018", "category": "orders", "question": "Why does order #10234 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-019", "category": "orders", "question": "Can I change the address on order #10241?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-020", "category": "orders", "question": "Where is order #10287?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-021", "category": "orders", "question": "Where is order #10273?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-022", "category": "orders", "question": "Where is order #10274?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-023", "category": "orders", "question": "Why does order #10259 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-024", "category": "orders", "question": "Can I change the address on order #10231?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-025", "category": "orders", "question": "Can I change the address on order #10248?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-026", "category": "orders", "question": "Why does order #10235 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-027", "category": "orders", "question": "Why does order #10287 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-028", "category": "orders", "question": "Where is order #10245?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-029", "category": "orders", "question": "Where is order #10272?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-030", "category": "orders", "question": "Where is order #10274?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-031", "category": "orders", "question": "Where is order #10256?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-032", "category": "orders", "question": "Where is order #10252?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-033", "category": "orders", "question": "Where is order #10263?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-034", "category": "orders", "question": "Can I change the address on order #10276?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-035", "category": "orders", "question": "Can I change the address on order #10260?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-036", "category": "orders", "question": "Where is order #10265?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-037", "category": "orders", "question": "Why does order #10241 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-038", "category": "orders", "question": "Can I change the address on order #10251?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-039", "category": "orders", "question": "Where is order #10270?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-040", "category": "orders", "question": "Can I change the address on order #10283?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-041", "category": "orders", "question": "Can I change the address on order #10249?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-042", "category": "orders", "question": "Why does order #10275 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-043", "category": "orders", "question": "Where is order #10278?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-044", "category": "orders", "question": "Can I change the address on order #10286?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-045", "category": "orders", "question": "Where is order #10263?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-046", "category": "orders", "question": "Why does order #10277 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-047", "category": "orders", "question": "Can I change the address on order #10235?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-048", "category": "orders", "question": "Where is order #10251?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-049", "category": "orders", "question": "Why does order #10256 show delivered when it isn't?", "expected": "report the order or delivery facts correctly"}
+{"id": "orders-050", "category": "orders", "question": "Can I change the address on order #10236?", "expected": "report the order or delivery facts correctly"}
+{"id": "how_to-001", "category": "how_to", "question": "Can I schedule a PDF report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-002", "category": "how_to", "question": "Can I schedule a CSV report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-003", "category": "how_to", "question": "How do I set up the starter kit for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-004", "category": "how_to", "question": "How do I set up premium support for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-005", "category": "how_to", "question": "How do I set up the starter kit for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-006", "category": "how_to", "question": "How do I set up premium support for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-007", "category": "how_to", "question": "Can I schedule a PDF report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-008", "category": "how_to", "question": "How do I export reports to Excel?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-009", "category": "how_to", "question": "How do I set up the annual plan for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-010", "category": "how_to", "question": "How do I export reports to CSV?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-011", "category": "how_to", "question": "How do I export reports to PDF?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-012", "category": "how_to", "question": "Can I schedule a PDF report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-013", "category": "how_to", "question": "Can I schedule a Excel report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-014", "category": "how_to", "question": "How do I export reports to CSV?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-015", "category": "how_to", "question": "How do I set up premium support for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-016", "category": "how_to", "question": "How do I set up the add-on for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-017", "category": "how_to", "question": "Can I schedule a Excel report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-018", "category": "how_to", "question": "How do I export reports to Excel?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-019", "category": "how_to", "question": "Can I schedule a Excel report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-020", "category": "how_to", "question": "How do I export reports to CSV?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-021", "category": "how_to", "question": "Can I schedule a Excel report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-022", "category": "how_to", "question": "How do I set up the add-on for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-023", "category": "how_to", "question": "How do I export reports to Excel?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-024", "category": "how_to", "question": "How do I export reports to CSV?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-025", "category": "how_to", "question": "Can I schedule a PDF report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-026", "category": "how_to", "question": "Can I schedule a Excel report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-027", "category": "how_to", "question": "How do I set up premium support for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-028", "category": "how_to", "question": "How do I export reports to Excel?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-029", "category": "how_to", "question": "How do I set up the add-on for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-030", "category": "how_to", "question": "Can I schedule a PDF report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-031", "category": "how_to", "question": "How do I set up the starter kit for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-032", "category": "how_to", "question": "How do I set up the annual plan for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-033", "category": "how_to", "question": "How do I set up the annual plan for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-034", "category": "how_to", "question": "How do I export reports to CSV?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-035", "category": "how_to", "question": "How do I set up the add-on for my team?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-036", "category": "how_to", "question": "Can I schedule a PDF report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-037", "category": "how_to", "question": "How do I export reports to PDF?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-038", "category": "how_to", "question": "How do I export reports to PDF?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-039", "category": "how_to", "question": "Can I schedule a CSV report every week?", "expected": "explain how to use the product correctly"}
+{"id": "how_to-040", "category": "how_to", "question": "How do I export reports to CSV?", "expected": "explain how to use the product correctly"}
+{"id": "refuse-001", "category": "refuse", "question": "Can you write my college essay about premium support?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-002", "category": "refuse", "question": "What stock should I buy this week?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-003", "category": "refuse", "question": "Can you write my college essay about premium support?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-004", "category": "refuse", "question": "Can you tell me another customer's address for order #10283?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-005", "category": "refuse", "question": "Can you write my college essay about premium support?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-006", "category": "refuse", "question": "What stock should I buy this week?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-007", "category": "refuse", "question": "Can you tell me another customer's address for order #10270?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-008", "category": "refuse", "question": "Can you write my college essay about the starter kit?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-009", "category": "refuse", "question": "Can you write my college essay about the add-on?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-010", "category": "refuse", "question": "Can you write my college essay about the add-on?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-011", "category": "refuse", "question": "What stock should I buy this week?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-012", "category": "refuse", "question": "Can you tell me another customer's address for order #10249?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-013", "category": "refuse", "question": "Can you write my college essay about the add-on?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-014", "category": "refuse", "question": "What stock should I buy this week?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-015", "category": "refuse", "question": "Can you tell me another customer's address for order #10254?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-016", "category": "refuse", "question": "Can you write my college essay about the annual plan?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-017", "category": "refuse", "question": "What stock should I buy this week?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-018", "category": "refuse", "question": "Can you write my college essay about premium support?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-019", "category": "refuse", "question": "Can you write my college essay about the add-on?", "expected": "decline politely: the question is out of scope"}
+{"id": "refuse-020", "category": "refuse", "question": "Can you write my college essay about the annual plan?", "expected": "decline politely: the question is out of scope"}
